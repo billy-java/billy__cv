@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/billy__cv/static/css/main.f23488b2.css",
-    "main.js": "/billy__cv/static/js/main.f09318d4.js",
+    "main.js": "/billy__cv/static/js/main.a99df9fb.js",
     "static/media/Billy_Babou_2019_carré_500X500px.png": "/billy__cv/static/media/Billy_Babou_2019_carré_500X500px.b11551d75bb23675fe4e.png",
     "static/media/Angular_Filmen.jpg": "/billy__cv/static/media/Angular_Filmen.d37693f6ae570a597a41.jpg",
     "static/media/React_Slide.jpg": "/billy__cv/static/media/React_Slide.c7d3d91e1d376e05036f.jpg",
@@ -15,10 +15,10 @@
     "static/media/React_Multi-Sprache.jpg": "/billy__cv/static/media/React_Multi-Sprache.c2b148c0f51b18404cf1.jpg",
     "index.html": "/billy__cv/index.html",
     "main.f23488b2.css.map": "/billy__cv/static/css/main.f23488b2.css.map",
-    "main.f09318d4.js.map": "/billy__cv/static/js/main.f09318d4.js.map"
+    "main.a99df9fb.js.map": "/billy__cv/static/js/main.a99df9fb.js.map"
   },
   "entrypoints": [
     "static/css/main.f23488b2.css",
-    "static/js/main.f09318d4.js"
+    "static/js/main.a99df9fb.js"
   ]
 }
